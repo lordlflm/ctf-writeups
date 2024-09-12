@@ -1,5 +1,5 @@
 # My capture the flags writeups repository
-My notes because I dont have much memory
+Notes because I dont have much memory
 ## Its all about the tools you used along the way
 (And the knowledge you gained)
 ### Rev
@@ -8,6 +8,6 @@ My notes because I dont have much memory
 ### Pwn
 
 ### Crypto
-- [RsaCtfTool](https://github.com/RsaCtfTool/RsaCtfTool)
-- JWT_tool
+- [RsaCtfTool](https://github.com/RsaCtfTool/RsaCtfTool) Tools to crack RSA encryption (TODO learn the maths)
+- [JWT_tool](https://github.com/ticarpi/jwt_tool)
 ### Forensics
